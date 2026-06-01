@@ -5,7 +5,8 @@ Basic example of different features of Jest as a unit testing tool for JavaScrip
 The system under test is a basic calculator module that implements the functions `sum`, `subtract`, `multiply` and `divide`.
 
 ## Usage
-`npm run test`
+1. Install dependencies: `npm i`
+2. Run the tests: `npm run test`
 
 ## Tools
 JavaScript / Jest
